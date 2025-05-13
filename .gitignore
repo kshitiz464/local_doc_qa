@@ -1,0 +1,20 @@
+# Python related temporary files and environments
+__pycache__/
+*.pyc
+.env
+venv/ # Your virtual environment folder
+
+# LLM Models (ignore specific files or entire subfolders)
+
+# If gpt4all-j is a subfolder inside 'models' that you want to ignore entirely:
+# models/gpt4all-j/
+models/
+# User uploaded documents
+uploaded_docs/
+
+# Streamlit specific local data (temporary caches, etc.)
+.streamlit/local/
+
+# Specific Python files you want to ignore
+main1.py  
+# Your old/test Python file

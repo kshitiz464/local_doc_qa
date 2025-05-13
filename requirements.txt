@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+python-docx
+sentence-transformers
+faiss-cpu
+llama-cpp-python
+transformers
+blobfile
+tiktoken
