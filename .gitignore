@@ -14,7 +14,3 @@ uploaded_docs/
 
 # Streamlit specific local data (temporary caches, etc.)
 .streamlit/local/
-
-# Specific Python files you want to ignore
-main1.py  
-# Your old/test Python file
